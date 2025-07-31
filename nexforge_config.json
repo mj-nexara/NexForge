@@ -1,0 +1,6 @@
+{
+  "offline_mode": true,
+  "logging_level": "info",
+  "enable_ipfs": true,
+  "use_did": true
+}

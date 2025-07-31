@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: nexforge
+Version: 0.1.0
+Summary: Ethical Python tools for the Nexara ecosystem
+Author: MJ Ahmad
+Requires-Dist: click
+Requires-Dist: rich
+Requires-Dist: cryptography
+Requires-Dist: ipfshttpclient
+Requires-Dist: didkit
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary

@@ -1,0 +1,12 @@
+README.md
+setup.py
+core/__init__.py
+core/cli.py
+core/config.py
+core/scanner.py
+nexforge.egg-info/PKG-INFO
+nexforge.egg-info/SOURCES.txt
+nexforge.egg-info/dependency_links.txt
+nexforge.egg-info/entry_points.txt
+nexforge.egg-info/requires.txt
+nexforge.egg-info/top_level.txt
